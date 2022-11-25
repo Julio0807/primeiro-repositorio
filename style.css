@@ -1,0 +1,41 @@
+
+#banner{
+	width:99%;
+
+	height:450px;
+
+	border: 10px solid #000000;
+}
+body{
+	background-color: purple;
+}
+
+p {
+	text-align:center
+}
+.principal{
+	
+}
+#missao{
+	style="font-size:25px
+}
+h1{
+	text-align:center
+}
+
+em strong{
+	color: blueviolet;
+}
+.itens{
+	font-style:oblique;
+}
+h2{
+	text-align: center;
+}
+.Benefícios{
+	background-color: #c22966;
+
+}
+.foto{
+	text-align: center;
+}
