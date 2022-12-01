@@ -1,0 +1,65 @@
+
+#frente{
+	width: auto;
+	height: 500px;
+	border: 10px solid #000000;
+}
+
+.banner{
+	height: 500px;
+    width: 100%;
+    margin: 0px;
+	text-align: center;
+} 
+
+.teste{
+  margin-top: 100px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color:red;
+}
+
+body{
+	background-color: grey;
+}
+
+p {
+	text-align:center
+}
+.principal{
+	
+}
+#missao{
+	style="font-size:25px
+}
+h1{
+	text-align:center
+}
+
+em strong{
+	color: blueviolet;
+}
+.itens{
+	font-style:oblique;
+}
+h2{
+	text-align: center;
+}
+.Benefícios{
+	background-color: white;
+
+}
+#foto{
+
+	width:40%;
+
+	height:500px;	
+
+	border: 96px solid #00000;
+	
+}
+h3{
+	text-align: center;
+
+
+}
